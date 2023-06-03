@@ -1,4 +1,7 @@
+### Note: it is recommended to use the new Unity [input system](https://learn.unity.com/project/using-the-input-system-in-unity) instead.
+
 # Unity Keybinds
+
 Easily assign multiple keys to an action and manage your keybinds all in one script in Unity.
 
 This script is free to use commercially.
